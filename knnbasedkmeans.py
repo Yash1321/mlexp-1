@@ -75,4 +75,4 @@ plt.scatter(X[1], Y[1], color='blue')
 plt.scatter(X[2], Y[2], color='green')
 plt.show()
 
-# View results
+# View results#
